@@ -6,7 +6,6 @@ org\apache\beam\examples\complete\game\utils\WriteToBigQuery$FieldFn.class
 org\apache\beam\examples\complete\game\HourlyTeamScore$Options.class
 org\apache\beam\examples\complete\game\utils\WriteToText.class
 org\apache\beam\examples\subprocess\SubProcessPipelineOptions$SubProcessConfigurationFactory.class
-org\apache\beam\examples\MinimalWordCount.class
 org\apache\beam\examples\subprocess\kernel\SubProcessCommandLineArgs$Command.class
 org\apache\beam\examples\common\WriteOneFilePerWindow$PerWindowFiles.class
 org\apache\beam\examples\common\ExamplePubsubTopicAndSubscriptionOptions.class
@@ -50,6 +49,7 @@ org\apache\beam\examples\WordCount$FormatAsTextFn.class
 org\apache\beam\examples\complete\game\injector\RetryHttpInitializerWrapper.class
 org\apache\beam\examples\subprocess\configuration\SubProcessConfiguration.class
 org\apache\beam\examples\complete\game\injector\InjectorUtils.class
+org\apache\beam\examples\MinimalPageRankVyshnavi.class
 org\apache\beam\examples\subprocess\ExampleEchoPipeline.class
 org\apache\beam\examples\WindowedWordCount$AddTimestampFn.class
 org\apache\beam\examples\complete\game\StatefulTeamScore$Options.class
